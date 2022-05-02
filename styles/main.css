@@ -11,3 +11,17 @@ p {
 }
 
 /* Add your main styles here */
+
+
+footer{
+    background: #d0d807;
+    color:black;
+    font-family: 'Avenir', sans-serif;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    width: 100% ;
+}
+    
+    
