@@ -1,1 +1,32 @@
-/* You can use this file for adding navbar styling */
+.navigation-bar {float: left;
+}
+.navigation-bar { 
+    list-style-type: none;
+    position: sticky;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d0d807;
+    font-family: sans-serif;
+    width: 100%
+
+
+}
+a { display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 40px 16px;
+    text-decoration: none;
+}
+.active {
+    background-color: #3c352b;
+    color: white;
+}
+a:hover {
+    background-color: #acb132 ;
+}
+.navbar-logo{  width: 100px;
+    display: inline-block;
+    height:55px;
+    border-radius: 0%;
+    margin-top: 0px;}
